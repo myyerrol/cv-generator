@@ -1,5 +1,5 @@
 <template>
-  <div class="resume">
+  <div class="cv">
     <div class="banner">
       <div class="banner__fullname">{{ person.name.first }} {{ person.name.middle }} {{ person.name.last }}</div>
       <div class="banner__position">{{ person.position }}</div>

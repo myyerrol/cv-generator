@@ -37,7 +37,7 @@ export default Vue.component('cv', {
   height: 100%;
   width: 100%;
 }
-.resume {
+.cv {
   height: 100%;
   width: 100%;
 }
