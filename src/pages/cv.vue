@@ -42,4 +42,4 @@ export default Vue.component('cv', {
   width: 100%;
 }
 
-</style>../cvs/cool.vue
+</style>
