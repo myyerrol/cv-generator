@@ -21,18 +21,15 @@ export default Vue.component('cv', {
 .cv-wrapper {
   display: flex;
   justify-content: center;
-  overflow-x: hidden;
+  min-width: 750px;
 }
-
 .cv-page {
   background: white;
   position: relative;
-  width: 1200px;
-  min-width: 1200px;
   display: block;
   overflow: hidden;
+  width: 1000px;
 }
-
 .cv-page-inner {
   height: 100%;
   width: 100%;
